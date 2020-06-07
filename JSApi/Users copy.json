@@ -1,0 +1,39 @@
+[
+   { 
+      "id":1,
+      "username":"Bosse",
+      "password":"1234",
+      "email":"bosse@bildoktor.se",
+      "newsletter":true,
+      "admin":true
+   }
+   ,{
+   "id":2,
+   "username":"Berit",
+   "password":"1234",
+   "email":"Berit@bildoktor.se",
+   "newsletter":true,
+   "admin":false
+   }
+   ,{
+    "id":3,
+    "username":"Sune",
+    "password":"1234",
+    "email":"Sune@bildoktor.se",
+    "newsletter":false,
+    "admin":false
+    }
+    ,{
+      "id":4,
+      "username":"Kurt",
+      "password":"1234",
+      "email":"Kurt@bildoktor.se",
+      "newsletter":true,
+      "admin":false
+      }
+  
+  
+  
+  
+  ]
+  
